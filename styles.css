@@ -4,5 +4,7 @@ p {
 }
 #awesomeText {font-family: 'Times New Roman', Georgia, Serif;}
 .soft {color: #a8a8a8;}
-.center { text-align: center; }
+.center {text-align: center;}
 .container {magin: 0 auto}
+
+body {background-color:orange}

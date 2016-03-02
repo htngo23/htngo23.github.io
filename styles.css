@@ -8,3 +8,8 @@ p {
 .container {magin: 0 auto}
 
 body {background-color:orange}
+
+header{background-color:black;
+color:white;
+text-align:center;
+}
